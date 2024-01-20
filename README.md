@@ -13,4 +13,8 @@ Embark on a web development journey with me as I craft an Instagram replica from
 8. Allow users to express their sentiments with post likes or dislikes.
 9. Elevate user experience by showcasing uploaded pictures in the profile feed.
 
+
+
+Note: Run 'npx nodemon' to get started.
+
 Let's redefine social media with this feature-packed Instagram clone!🔥 #WebDevelopment #InstagramClone #NodeJS #ExpressJS #MongoDB
